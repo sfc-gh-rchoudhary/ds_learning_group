@@ -1,8 +1,8 @@
 # Ds_learning_group
+
 This repo contains all the reading material and resources related to group activity.
 
-
-### Code commit guidelines
+## Code commit guidelines
 
 Here are the guidelines to commit the code in the [DS learning group repo](https://github.com/sfc-gh-adkumar/Ds_learning_group).
 Following below guidelines will make the repo easy to manage and maintain.
