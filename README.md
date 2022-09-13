@@ -7,7 +7,7 @@ This repo contains all the reading material and resources related to group activ
 Here are the guidelines to commit the code in the [DS learning group repo](https://github.com/sfc-gh-adkumar/Ds_learning_group).
 Following below guidelines will make the repo easy to manage and maintain.
 
-- Follow following folder structure to repo. i.e. pandas code can go to Pandas folder, or EDA etc. 
+- Follow following folder structure to repo. i.e. pandas code can go to Pandas folder, or EDA etc.
   - Python and Pandas refresher
   - EDA
   - Regression
