@@ -1,8 +1,8 @@
 # Assignment 1
 
-You went to visit Snowflake's new office, it has large number of Rooms and these rooms open from outside. Unfortunately, every analytics team member got locked in seperate rooms.
+You went to visit Snowflake's new office in Pune, it has large number of Rooms and these rooms open from outside. Unfortunately, every analytics team member got locked in seperate rooms.
 
-Good news: You have been locked in the room where main control panel is located. You can't free yourself but help in escaping your team mates. Some of them are willing to help you in escape once they will be out.
+Good news: You have been locked in the room where main control panel is located. You can't free yourself but help in escaping your teammates. Some of them are willing to help you in escape once they will be out.
 
 Bad news: As there are large number of rooms, you don't know which one is empty and which one has member locked in it. If you open an empty room, you loose a chance to free 1 of your team member and will loose access to control panel. Weired condition huhh.
 
